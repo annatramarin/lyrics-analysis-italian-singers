@@ -18,6 +18,8 @@ See [2-Word_frequency_comparison.ipynb](2-Word_frequency_comparison.ipynb)
 
 ##### STEP 3 - Spearman correlation
 
+Spearman correlation assesses whether there is a linear relationship between two elements. 
+
 - Compared the rankings to see the correlation between the corpora
 - Removed stopwords from the corpora
 - Recalculated the correlation
