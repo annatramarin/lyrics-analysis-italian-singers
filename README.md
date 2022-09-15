@@ -1,7 +1,7 @@
 # lyrics_analysis_italian_singers
 Lyrics analysis and comparison of three Italian singers - Fabrizio De André, Giorgio Gaber and Francesco Guccini.
 
-Please note that nbviewer (https://nbviewer.org/) is recommended to open the [Lyrics_analysis_comparison_Italian_singers.ipynb](Lyrics_analysis_comparison_Italian_singers.ipynb) file (simply copy-paste the page link).
+Please note that [nbviewer](https://nbviewer.org/) is recommended to open the [Lyrics_analysis_comparison_Italian_singers.ipynb](Lyrics_analysis_comparison_Italian_singers.ipynb) file (simply copy-paste the page link).
 
 The project can also be viewed by section, according to the following steps:
 
@@ -31,7 +31,7 @@ Spearman correlation assesses whether there is a correlation between two element
 ##### STEP 4 - Weirdness Index: how "typical" is a word in a songwriter's lyrics production?
 
 See [4-Weirdness_Index.ipynb](4-Weirdness_Index.ipynb)
-If the file takes too long to load, open it with nbviewer (https://nbviewer.org/)
+If the file takes too long to load, open it with [nbviewer](https://nbviewer.org/)
 
 - Calculated the weirdness index by taking into account the obtained corpora and a more generic corpus from Wikipedia
 
