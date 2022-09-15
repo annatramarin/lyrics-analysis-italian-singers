@@ -3,6 +3,8 @@ Lyrics analysis and comparison of three Italian singers - Fabrizio De André, Gi
 
 Please note that nbviewer (https://nbviewer.org/) is recommended to open the [Lyrics_analysis_comparison_Italian_singers.ipynb](Lyrics_analysis_comparison_Italian_singers.ipynb) file (simply copy-paste the page link).
 
+The project can also be viewed by section, according to the following steps:
+
 ##### STEP 1 - Web-scraping
 
 See [1-Scraping.ipynb](1-Scraping.ipynb)
