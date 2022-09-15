@@ -19,3 +19,7 @@ STEP 2 - Spearman correlation
 STEP 3 - Weirdness Index: how "typical" is a word in a songwriter's lyrics production?
 
 - Calculated the weirdness index by taking into account the obtained corpora and a more generic corpus from Wikipedia
+
+STEP 4 - Word Clouds
+
+![De André](https://imgur.com/a/FBmy12t)
