@@ -22,4 +22,4 @@ STEP 3 - Weirdness Index: how "typical" is a word in a songwriter's lyrics produ
 
 STEP 4 - Word Clouds
 
-![De André](https://imgur.com/a/FBmy12t)
+![De André](word_cloud_de_andre.png)
