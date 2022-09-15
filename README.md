@@ -31,6 +31,7 @@ Spearman correlation assesses whether there is a correlation between two element
 ##### STEP 4 - Weirdness Index: how "typical" is a word in a songwriter's lyrics production?
 
 See [4-Weirdness_Index.ipynb](4-Weirdness_Index.ipynb)
+If the file takes too long to load, open it with nbviewer (https://nbviewer.org/)
 
 - Calculated the weirdness index by taking into account the obtained corpora and a more generic corpus from Wikipedia
 
