@@ -1,7 +1,7 @@
 # lyrics_analysis_italian_singers
 Lyrics analysis and comparison of three Italian singers - Fabrizio De André, Giorgio Gaber and Francesco Guccini.
 
-Please note that nbviewer (https://nbviewer.org/) is recommended to open the .ipynb file.
+Please note that nbviewer (https://nbviewer.org/) is recommended to open the [Lyrics_analysis_comparison_Italian_singers.ipynb](Lyrics_analysis_comparison_Italian_singers.ipynb) file.
 
 ##### STEP 1 - Web-scraping and frequency distributions
 
