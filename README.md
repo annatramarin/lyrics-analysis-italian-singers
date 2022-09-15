@@ -28,4 +28,5 @@ Word Clouds represent weighted words. In this case, the most frequent words foun
 <p align='center'>
 Word Cloud for Fabrizio De André  
  </p>
+ 
 ![De André](word_cloud_de_andre.png)
