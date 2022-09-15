@@ -38,7 +38,7 @@ See [4-Weirdness_Index.ipynb](4-Weirdness_Index.ipynb)
 
 See [Word_Cloud.ipynb](Word_Cloud.ipynb)
 
-Word Clouds represent weighted words. In this case, the most frequent words found in the lyrics of each singer are represented.  
+Word Clouds represent weighted words. In this case, the most frequent words found in the lyrics of each singer are represented in the cloud.  
 
 
 <p align='center'>
