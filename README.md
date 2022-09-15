@@ -3,12 +3,18 @@ Lyrics analysis and comparison of three Italian singers - Fabrizio De André, Gi
 
 Please note that nbviewer (https://nbviewer.org/) is recommended to open the [Lyrics_analysis_comparison_Italian_singers.ipynb](Lyrics_analysis_comparison_Italian_singers.ipynb) file (simply copy-paste the page link).
 
-##### STEP 1 - Web-scraping and frequency distributions
+##### STEP 1 - Web-scraping
+
+See [1- Scraping.ipynb](1- Scraping.ipynb)
 
 - Scraped the web to obtain the lyrics of three Italian singer-songwriters, in order to create one corpus per songwriter
+
+##### STEP 2 - Word frequency comparison
+
+See [2-Word_frequency_comparison.ipynb](2-Word_frequency_comparison.ipynb)
 - Created a frequency distribution to see which words are most frequent in their lyrics production
 
-##### STEP 2 - Spearman correlation
+##### STEP 3 - Spearman correlation
 
 - Compared the rankings to see the correlation between the corpora
 - Removed stopwords from the corpora
@@ -16,11 +22,11 @@ Please note that nbviewer (https://nbviewer.org/) is recommended to open the [Ly
 - Found common words among the three singers
 - Recalculated the correlation between common word frequencies (with and without stopwords)
 
-##### STEP 3 - Weirdness Index: how "typical" is a word in a songwriter's lyrics production?
+##### STEP 4 - Weirdness Index: how "typical" is a word in a songwriter's lyrics production?
 
 - Calculated the weirdness index by taking into account the obtained corpora and a more generic corpus from Wikipedia
 
-##### STEP 4 - Word Clouds
+##### STEP 5 - Word Clouds
 
 See [Word_Cloud.ipynb](Word_Cloud.ipynb)
 
