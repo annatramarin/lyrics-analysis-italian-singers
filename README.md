@@ -5,7 +5,7 @@ Please note that nbviewer (https://nbviewer.org/) is recommended to open the [Ly
 
 ##### STEP 1 - Web-scraping
 
-See [1- Scraping.ipynb](1- Scraping.ipynb)
+See [1-Scraping.ipynb](1-Scraping.ipynb)
 
 - Scraped the web to obtain the lyrics of three Italian singer-songwriters, in order to create one corpus per songwriter
 
