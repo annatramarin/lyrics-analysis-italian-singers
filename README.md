@@ -23,6 +23,7 @@ Please note that nbviewer (https://nbviewer.org/) is recommended to open the .ip
 ##### STEP 4 - Word Clouds
 
 See [Word_Cloud.ipynb](Word_Cloud.ipynb)
+
 Word Clouds represent weighted words. In this case, the most frequent words found in the lyrics of each singer are represented.  
 
 
