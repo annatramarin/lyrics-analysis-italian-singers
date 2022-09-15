@@ -34,9 +34,11 @@ Word Cloud for Fabrizio De André
 Word Cloud for Giorgio Gaber
  </p>
 
-!(word_cloud_gaber.png)
+![Gaber](word_cloud_gaber.png)
  
  
  <p align='center'>
 Word Cloud for Francesco Guccini 
  </p>
+ 
+ ![Guccini](word_cloud_guccini.png)
