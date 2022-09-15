@@ -22,7 +22,7 @@ Please note that nbviewer (https://nbviewer.org/) is recommended to open the .ip
 
 ##### STEP 4 - Word Clouds
 
-See Word_Cloud.ipynb
+See [Word_Cloud.ipynb](Word_Cloud.ipynb)
 Word Clouds represent weighted words. In this case, the most frequent words found in the lyrics of each singer are represented.  
 
 
@@ -30,7 +30,7 @@ Word Clouds represent weighted words. In this case, the most frequent words foun
 Word Cloud for Fabrizio De André  
  </p>
  
- ![De André](word_cloud_de_andre.png)
+ [De André](word_cloud_de_andre.png)
 
 <p align='center'>
 Word Cloud for Giorgio Gaber
