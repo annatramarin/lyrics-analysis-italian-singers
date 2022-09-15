@@ -18,6 +18,8 @@ See [2-Word_frequency_comparison.ipynb](2-Word_frequency_comparison.ipynb)
 
 ##### STEP 3 - Spearman correlation
 
+See [3-Spearman_correlation.ipynb](3-Spearman_correlation.ipynb)
+
 Spearman correlation assesses whether there is a correlation between two elements. 
 
 - Compared the rankings to see the correlation between the corpora
@@ -27,6 +29,8 @@ Spearman correlation assesses whether there is a correlation between two element
 - Recalculated the correlation between common word frequencies (with and without stopwords)
 
 ##### STEP 4 - Weirdness Index: how "typical" is a word in a songwriter's lyrics production?
+
+See [4-Weirdness_Index.ipynb](4-Weirdness_Index.ipynb)
 
 - Calculated the weirdness index by taking into account the obtained corpora and a more generic corpus from Wikipedia
 
